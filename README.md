@@ -1,1 +1,1 @@
-![img](./document/img.png)
+![img](document/img.png)
